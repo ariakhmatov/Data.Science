@@ -1,2 +1,2 @@
-# Data.Science
+# Data Science
 Developing machine learning research projects
